@@ -1,0 +1,38 @@
+[13-Oct-2016 17:11:27 PRC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /www/ecshop/includes/lib_base.php on line 346
+[13-Oct-2016 17:11:27 PRC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /www/ecshop/admin/cloud.php on line 38
+[13-Oct-2016 17:11:27 PRC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /www/ecshop/admin/cloud.php on line 38
+[13-Oct-2016 17:11:35 PRC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /www/ecshop/includes/lib_base.php on line 346
+[13-Oct-2016 17:11:35 PRC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /www/ecshop/admin/cloud.php on line 38
+[13-Oct-2016 17:11:59 PRC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /www/ecshop/includes/lib_base.php on line 346
+[13-Oct-2016 17:12:00 PRC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /www/ecshop/admin/cloud.php on line 38
+[13-Oct-2016 17:12:00 PRC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /www/ecshop/admin/cloud.php on line 38
+[13-Oct-2016 17:36:00 PRC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /www/ecshop/includes/lib_base.php on line 346
+[13-Oct-2016 17:36:00 PRC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /www/ecshop/includes/lib_base.php on line 346
+[13-Oct-2016 17:36:00 PRC] PHP Strict Standards:  Redefining already defined constructor for class captcha in /www/ecshop/includes/cls_captcha.php on line 119
+[13-Oct-2016 17:36:22 PRC] PHP Strict Standards:  Redefining already defined constructor for class captcha in /www/ecshop/includes/cls_captcha.php on line 119
+[13-Oct-2016 17:36:22 PRC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /www/ecshop/includes/lib_base.php on line 346
+[13-Oct-2016 17:36:22 PRC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /www/ecshop/admin/cloud.php on line 38
+[13-Oct-2016 17:36:22 PRC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /www/ecshop/admin/cloud.php on line 38
+[13-Oct-2016 17:36:58 PRC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /www/ecshop/includes/lib_base.php on line 346
+[13-Oct-2016 17:40:53 PRC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /www/ecshop/includes/lib_base.php on line 346
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class chinabank in /www/ecshop/includes/modules/payment/chinabank.php on line 85
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class paypal in /www/ecshop/includes/modules/payment/paypal.php on line 82
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class cod in /www/ecshop/includes/modules/payment/cod.php on line 82
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class bank in /www/ecshop/includes/modules/payment/bank.php on line 79
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class tenpayc2c in /www/ecshop/includes/modules/payment/tenpayc2c.php on line 83
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class shenzhou in /www/ecshop/includes/modules/payment/shenzhou.php on line 81
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class kuaiqian in /www/ecshop/includes/modules/payment/kuaiqian.php on line 83
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class balance in /www/ecshop/includes/modules/payment/balance.php on line 79
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class alipay in /www/ecshop/includes/modules/payment/alipay.php on line 88
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class cappay in /www/ecshop/includes/modules/payment/cappay.php on line 81
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class post in /www/ecshop/includes/modules/payment/post.php on line 79
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class paypal_ec in /www/ecshop/includes/modules/payment/paypal_ec.php on line 96
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class ips in /www/ecshop/includes/modules/payment/ips.php on line 82
+[13-Oct-2016 17:42:25 PRC] PHP Strict Standards:  Redefining already defined constructor for class tenpay in /www/ecshop/includes/modules/payment/tenpay.php on line 83
+[13-Oct-2016 22:21:46 PRC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /www/ecshop/includes/lib_base.php on line 346
+[13-Oct-2016 22:21:46 PRC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /www/ecshop/includes/lib_base.php on line 346
+[13-Oct-2016 22:21:47 PRC] PHP Strict Standards:  Redefining already defined constructor for class captcha in /www/ecshop/includes/cls_captcha.php on line 119
+[13-Oct-2016 22:22:23 PRC] PHP Strict Standards:  Redefining already defined constructor for class captcha in /www/ecshop/includes/cls_captcha.php on line 119
+[13-Oct-2016 22:22:24 PRC] PHP Strict Standards:  Non-static method cls_image::gd_version() should not be called statically in /www/ecshop/includes/lib_base.php on line 346
+[13-Oct-2016 22:22:24 PRC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /www/ecshop/admin/cloud.php on line 38
+[13-Oct-2016 22:22:25 PRC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /www/ecshop/admin/cloud.php on line 38
